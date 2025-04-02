@@ -1,16 +1,25 @@
 # Novais & Novais - Advocacia, Consultoria e Assessoria Jurídica #
 
-📌 Descrição
-Este é um site institucional desenvolvido para a advocacia Novais & Novais, apresentando informações sobre os serviços oferecidos e formas de contato.
+📌 Descrição:
 
-🚀 Tecnologias Utilizadas
-HTML5, CSS3, Bootstrap 5
-FontAwesome (ícones)
-JavaScript (pequenas interações)
+  Este é um site institucional desenvolvido para a advocacia Novais & Novais, apresentando informações sobre os serviços oferecidos e formas de contato.
+  
 
-📂 Estrutura de Arquivos
-/index.html → Página principal
 
-/css/styles.css → Estilos personalizados
+🚀 Tecnologias Utilizadas:
 
-/img/ → Imagens do site
+  HTML5, CSS3, Bootstrap 5
+  
+  FontAwesome (ícones)
+  
+  JavaScript (pequenas interações)
+  
+  
+
+📂 Estrutura de Arquivos:
+
+  /index.html → Página principal
+  
+  /css/styles.css → Estilos personalizados
+  
+  /img/ → Imagens do site
